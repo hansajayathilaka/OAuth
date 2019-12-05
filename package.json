@@ -1,0 +1,25 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "Leaning about Pasport library.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansajayathilaka/OAuth.git"
+  },
+  "author": "Hansa Jayathilaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansajayathilaka/OAuth/issues"
+  },
+  "homepage": "https://github.com/hansajayathilaka/OAuth#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  }
+}
